@@ -1,6 +1,6 @@
 /**
- * @author: Nicola Dessi'
- */
+* @author: Nicola Dessi', Dario Freri
+*/
 #pragma once
 
 #include "controllers.hh"
